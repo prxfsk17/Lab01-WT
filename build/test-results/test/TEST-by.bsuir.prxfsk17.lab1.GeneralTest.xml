@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="by.bsuir.prxfsk17.lab1.GeneralTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-11-14T14:51:37" hostname="DESKTOP-2F064VF" time="0.082">
+  <properties/>
+  <testcase name="testTask1()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.02"/>
+  <testcase name="testTask2()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.002"/>
+  <testcase name="testTask3()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.002"/>
+  <testcase name="testTask4()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.004"/>
+  <testcase name="testTask5()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.002"/>
+  <testcase name="testTask6()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.002"/>
+  <testcase name="testTask7()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.003"/>
+  <testcase name="testTask8()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.003"/>
+  <testcase name="testTask9()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.02"/>
+  <testcase name="testTask14()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.004"/>
+  <testcase name="testTask15()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.002"/>
+  <testcase name="testTask16()" classname="by.bsuir.prxfsk17.lab1.GeneralTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
